@@ -24,7 +24,7 @@ class Dora < Sinatra::Base
   use Curl
 
   get '/' do
-    "Hi, I'm Dora!"
+    "Hi, I'm Nora!"
   end
 
   get '/health' do
