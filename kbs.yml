@@ -1,3 +1,4 @@
 applications:
 - name: some-app
 - name: some-app-2
+- name: some-app-3
